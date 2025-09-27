@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Abishake01/0g-backend/issues"
   },
-  "homepage": "https://github.com/Abishake01/0g-backend#readme"
+  "homepage": "https://github.com/Abishake01/0g-backend#readme",
+  "dependencies": {
+    "mongoose": "^8.18.2"
+  }
 }
