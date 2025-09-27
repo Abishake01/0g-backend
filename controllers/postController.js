@@ -1,6 +1,6 @@
 const Post = require('../models/Post');
 const AuthUser = require('../models/AuthUser');
-const PostInteraction = require('../models/PostInteraction');
+const PostInteraction = require('../models/PostInteractions');
 
 // Generate unique postId
 const generatePostId = () => {
